@@ -1,0 +1,28 @@
+h1{
+  color: powderblue;
+}
+
+h2{
+  color: #f5a142;
+}
+
+ul {
+  list-style-type: square;
+}
+
+img {
+  background-color: #9ecff7;
+  padding:10px;
+  display: inline-block;
+}
+
+body {
+  background-color: #6642f5;
+  
+}
+
+
+.MathJax_Display {
+  padding: 0.5em;
+  background-color: #eaeff3
+}

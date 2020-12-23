@@ -1,0 +1,88 @@
+---
+title: "Setting up your Distill blog"
+description: |
+  How to set up your distill blog like I did.
+author:
+  - name: Harrison Tietze
+    url: https://example.com/norajones
+date: 2020-12-24
+output:
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    css: faded.css
+    self_contained: false
+---
+
+## 1. Create a distill blog project
+
+1. Open up Rstudio
+    + File -> New Project -> Open in New Directory -> Distill Blog
+
+![](distill tutorial pics/distill 1.png){width=60%}
+
+2. Use hyphens in the directory name instead of spaces to match github conventions
+    + check both boxes
+ 
+## 2. Build website
+ 
+1. build -> build website
+
+ 
+![](distill tutorial pics/distill 2.png){width=100%}
+
+## 3. Create Git repository
+
+1. open up [GitHub desktop client for mac.](https://desktop.github.com/) 
+    + click add an existing repository
+
+
+![](distill tutorial pics/distill 3.png){width=60%}
+
+2. Choose the directory you created for your Rproject and hit add repository
+    + This will give an error and a different option, to create a repository there instead, click that
+
+![](distill tutorial pics/distill 4.png){width=60%}
+
+3. Do not initialize a readme. Choose a license if you prefer.
+    + Give a description
+
+![](distill tutorial pics/distill 5.png){width=60%}
+
+## 4. Publish your repository
+
+1. You will need to make your you have a github account and sign in beforehand
+    + hit publish
+
+![](distill tutorial pics/distill 6.png){width=60%}
+
+2. Uncheck the box and publish
+
+![](distill tutorial pics/distill 7.png){width=60%}
+
+
+## 5. Configure Github Pages
+
+1. Click open in github from the desktop client. This brings you to your github page.
+    + Go to settings
+
+![](distill tutorial pics/distill 8.png){width=60%}
+
+2. Scroll to the bottom
+    + Change the source to main, and the folder to docs
+    + click Save
+
+![](distill tutorial pics/distill 9.png){width=60%}
+
+3. Wait until the blue background turns green
+    + Click the link to your website's URL
+
+![](distill tutorial pics/distill 10.png){width=60%}
+
+4. The Hello World page of your blog
+
+![](distill tutorial pics/distill 11.png){width=60%}
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-23T23:41:49+09:00"
+      "last_modified": "2020-12-24T01:53:17+09:00"
     },
     {
       "path": "index.html",
       "title": "Commercial Data Science",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-23T23:41:50+09:00"
+      "last_modified": "2020-12-24T01:53:18+09:00"
     }
   ],
   "collections": ["posts/posts.json"]
