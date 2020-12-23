@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2020-12-24-setting-up-your-distill-blog-x/",
-    "title": "Setting up your Distill blog x",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Harrison Tietze",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2020-12-24",
-    "categories": [],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2020-12-24T02:37:26+09:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2020-12-24-setting-up-your-distill-blog/",
     "title": "Setting up your Distill blog",
     "description": "How to set up your distill blog like I did.",
