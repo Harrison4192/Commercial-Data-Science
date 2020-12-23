@@ -1,4 +1,4 @@
 library(pacman)
 p_load(distill)
-create_post("Setting up your Distill blog")
+create_post("Setting up your Distill blog x")
 create_theme(name = "distill-tutorial")
