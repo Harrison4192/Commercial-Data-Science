@@ -23,14 +23,14 @@
     "author": [
       {
         "name": "Harrison Tietze",
-        "url": "https://example.com/norajones"
+        "url": "harrison4191.github.io/commercial-data-science/distill-tutorial"
       }
     ],
     "date": "2020-12-24",
     "categories": [],
     "contents": "\n\nContents\n1. Create a distill blog project\n2. Build website\n3. Create Git repository\n4. Publish your repository\n5. Configure Github Pages\n\n1. Create a distill blog project\nOpen up Rstudio\nFile -> New Project -> Open in New Directory -> Distill Blog\n\n\nUse hyphens in the directory name instead of spaces to match github conventions\ncheck both boxes\n\n2. Build website\nbuild -> build website\n\n3. Create Git repository\nopen up GitHub desktop client for mac.\nclick add an existing repository\n\n\nChoose the directory you created for your Rproject and hit add repository\nThis will give an error and a different option, to create a repository there instead, click that\n\n\nDo not initialize a readme. Choose a license if you prefer.\nGive a description\n\n\n4. Publish your repository\nYou will need to make your you have a github account and sign in beforehand\nhit publish\n\n\nUncheck the box and publish\n\n5. Configure Github Pages\nClick open in github from the desktop client. This brings you to your github page.\nGo to settings\n\n\nScroll to the bottom\nChange the source to main, and the folder to docs\nclick Save\n\n\nWait until the blue background turns green\nClick the link to your website’s URL\n\n\nThe Hello World page of your blog\n\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-24T02:37:42+09:00",
+    "last_modified": "2020-12-24T02:39:50+09:00",
     "input_file": {}
   },
   {
