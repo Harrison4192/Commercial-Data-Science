@@ -17,6 +17,7 @@ output:
 ## 1. Create a distill blog project
 
 1. Open up Rstudio
+    + If you haven't done so, install distill and restart your session
     + File -> New Project -> Open in New Directory -> Distill Blog
 
 ![](distill tutorial pics/distill 1.png){width=60%}
